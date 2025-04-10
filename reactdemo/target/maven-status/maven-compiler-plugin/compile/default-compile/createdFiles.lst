@@ -1,0 +1,5 @@
+com\jaseer\reactdemo\repository\StudentRepository.class
+com\jaseer\reactdemo\service\StudentService.class
+com\jaseer\reactdemo\ReactdemoApplication.class
+com\jaseer\reactdemo\controller\StudentController.class
+com\jaseer\reactdemo\model\Student.class
